@@ -1,0 +1,25 @@
+.section_padding{
+    padding:3rem 1rem;
+}
+.footer{
+    background-color: rgb(203, 204, 194);
+    background-image: url("https://wallpapercave.com/dwp1x/wp2036912.png");
+   
+}
+.socialmedia {
+    display: flex;
+    flex-direction: row;
+    color: aliceblue;
+  }
+  .socialmedia > a {
+    margin-right: .5rem;
+    width: 5%;
+    padding: .3rem .5rem;
+    cursor: pointer;
+    border-radius: 3px;
+    color: aliceblue;
+    
+  }
+.name{
+  color: aliceblue;
+}
